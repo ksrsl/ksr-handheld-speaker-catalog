@@ -1,19 +1,19 @@
 {
-  "version": "2026-07-05T04:53:00.185697+00:00",
+  "version": "2026-07-05T09:18:30.876312+00:00",
   "pageSize": 27,
-  "pageCount": 13,
-  "songCount": 333,
-  "playlistCount": 5,
+  "pageCount": 16,
+  "songCount": 412,
+  "playlistCount": 6,
   "product": "KSR Speaker",
   "profile": "normal",
   "siteTitle": "KSR Handheld Speaker Catalog",
-  "generatedAt": "2026-07-05T04:53:00.185697+00:00",
+  "generatedAt": "2026-07-05T09:18:30.876312+00:00",
   "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-07-02\\c-users-dotus-downloads-starch-music\\outputs\\kspeaker_normal_publish_package\\speaker_source",
   "playlists": [
     {
       "slug": "all-music",
       "title": "All Music",
-      "songCount": 333
+      "songCount": 412
     },
     {
       "slug": "hip-hop-2000s",
@@ -34,6 +34,11 @@
       "slug": "rnb-90s-2010s",
       "title": "RNB 90s - 2010s",
       "songCount": 149
+    },
+    {
+      "slug": "pop-2000s-2010s",
+      "title": "Pop 2000s - 2010s",
+      "songCount": 79
     }
   ]
 }
