@@ -1,5 +1,5 @@
-all-music	All%20Music	190
-hip-hop-2000s	Hip%20Hop%202000s	35
-hip-hop-2010s	Hip%20Hop%202010s	35
-hip-hop-2020s	Hip%20Hop%202020s	44
-rnb-90s-2010s	RNB%2090s%20-%202010s	76
+all-music	All%20Music	333
+hip-hop-2000s	Hip%20Hop%202000s	61
+hip-hop-2010s	Hip%20Hop%202010s	61
+hip-hop-2020s	Hip%20Hop%202020s	62
+rnb-90s-2010s	RNB%2090s%20-%202010s	149
