@@ -1,19 +1,19 @@
 {
-  "version": "2026-07-05T09:18:30.876312+00:00",
-  "pageSize": 27,
-  "pageCount": 16,
-  "songCount": 412,
+  "version": "2026-07-27T00:22:07.781294+00:00",
+  "pageSize": 9,
+  "pageCount": 73,
+  "songCount": 655,
   "playlistCount": 6,
   "product": "KSR Speaker",
   "profile": "normal",
   "siteTitle": "KSR Handheld Speaker Catalog",
-  "generatedAt": "2026-07-05T09:18:30.876312+00:00",
-  "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-07-02\\c-users-dotus-downloads-starch-music\\outputs\\kspeaker_normal_publish_package\\speaker_source",
+  "generatedAt": "2026-07-27T00:22:07.781294+00:00",
+  "sourceDir": "merged:live-global+local-kspeaker",
   "playlists": [
     {
       "slug": "all-music",
       "title": "All Music",
-      "songCount": 412
+      "songCount": 655
     },
     {
       "slug": "hip-hop-2000s",
